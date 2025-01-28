@@ -1,0 +1,1 @@
+If you ran the .exe a see: Windows protected your pc from a virus, then click more and then click run anyway. This is happening becouse this app has no verification. If you dont trust me then click cancel.
